@@ -1,0 +1,6 @@
+[build]
+  publish = "assets"
+  command = ""
+
+[build.processing]
+  skip_processing = false
